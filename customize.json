@@ -3,7 +3,7 @@
   "name": "Bintang Ayu Sriwedari",
   "greetingText": "I really like your name btw!",
   "wishText": "Here is a wish for your birthday. May you receive whatever you ask for, may you find whatever you seek. Happy Bornday pren! ;)",
-  "imagePath": "img/lydia2-picsay.png",
+  "imagePath": "Img/lydia2-picsay.png",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Semoga yang dicita-citakan tercapai bla bla bla....",
   "sendButtonLabel": "Kirim",
@@ -16,7 +16,8 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Bornday! Bintang",
+  "wishHeading": "Happy Bornday!
+Bintang",
   "outroText": "okee if you know me keep it secret yaa ",
   "replayText": "Click, if you want to watch it again.",
   "outroSmiley": ":)"
